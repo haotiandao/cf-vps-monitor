@@ -38,7 +38,7 @@ new_sqlite_classes = ["RateLimitDO"]
 [[d1_databases]]
 binding = "DB"
 database_name = "cf-vps-monitor"
-database_id = "1195d230-ce2d-44eb-966f-a67ab3f54409"
+database_id = "1d513eef-af9a-4489-b50c-532ee6f3a042"
 
 [vars]
 
