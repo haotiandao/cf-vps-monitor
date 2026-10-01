@@ -94,7 +94,7 @@ function Set-InstanceDefaults {
 }
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
-$repository = "w87051809/cf-vps-monitor"
+$repository = "haotiandao/cf-vps-monitor"
 $binaryFallbackRepository = "kadidalax/cf-vps-monitor"
 $branch = "main"
 $autoBinaryUrl = $false
